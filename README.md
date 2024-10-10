@@ -1,4 +1,4 @@
 # The Soapbox: A Place to Spiel
 
 ### Posts:
-1. (WIP) Quality as a Mission
+1. 2024-10-09 [Quality as a Mission](./posts/quality_as_a_mission.md)
