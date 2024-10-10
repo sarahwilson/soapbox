@@ -1,3 +1,4 @@
-# Soapbox
+# The Soapbox: A Place to Spiel
 
-## A place to spiel
+### Posts:
+1. (WIP) Quality as a Mission
